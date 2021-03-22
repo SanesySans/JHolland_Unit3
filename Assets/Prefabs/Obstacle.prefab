@@ -92,8 +92,8 @@ GameObject:
   - component: {fileID: 4298009958953693653}
   - component: {fileID: 4298009958953693648}
   m_Layer: 0
-  m_Name: Prop_Barrier02
-  m_TagString: Untagged
+  m_Name: Obstacle
+  m_TagString: Obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
